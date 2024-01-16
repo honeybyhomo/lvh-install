@@ -18,4 +18,4 @@ brew install microsoft-excel
 brew install microsoft-word
 brew install bitwarden
 brew install sonos
-brew install trello
+mas "Trello", id: 1278508951
