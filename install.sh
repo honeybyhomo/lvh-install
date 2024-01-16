@@ -1,9 +1,9 @@
-#!/bin/bash
+##!/bin/bash
 
 ## Initial setup of new computer for Larry vs Harry
 
 ## Asks for password, so we hopefully don't have to type it again
-sudo -v
+## sudo -v
 
 ## Install Homebrew
 NONINTERACTIVE=1 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
