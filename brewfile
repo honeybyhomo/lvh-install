@@ -1,0 +1,10 @@
+brew "mas"
+
+cask "google-chrome"
+cask "google-drive"
+cask "monitorcontrol"
+cask "microsoft-excel"
+cask "microsoft-word"
+cask "bitwarden"
+
+mas "Trello", id: 1278508951
