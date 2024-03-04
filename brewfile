@@ -6,5 +6,9 @@ cask "monitorcontrol"
 cask "microsoft-excel"
 cask "microsoft-word"
 cask "bitwarden"
+cask "sonos"
+cask "adobe-acrobat-reader"
+cask "microsoft-teams"
+cask "zoom"
 
 mas "Trello", id: 1278508951
