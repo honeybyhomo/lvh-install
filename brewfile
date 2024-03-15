@@ -1,6 +1,7 @@
 tap "homebrew/autoupdate"
 
 brew "mas"
+brew "pinentry-mac"
 
 cask "google-chrome"
 cask "google-drive"
