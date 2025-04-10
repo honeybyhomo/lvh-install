@@ -13,6 +13,5 @@ cask "sonos"
 cask "adobe-acrobat-reader"
 cask "microsoft-teams"
 cask "zoom"
-
-mas "Trello", id: 1278508951
-mas "Amphetamine", id: 937984704
+cask "raycast"
+cask "clickup"
